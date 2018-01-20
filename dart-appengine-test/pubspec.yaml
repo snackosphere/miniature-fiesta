@@ -1,0 +1,4 @@
+name: dart_appengine_test
+version: 0.1.0
+dependencies:
+        appengine: '>=0.4.0 <0.5.0'
