@@ -1,6 +1,9 @@
 #!/bin/bash
 # My configuration for a fresh Ubuntu install
 
+# Shrink the dock icons
+dconf write /org/gnome/shell/extensions/dash-to-dock/dash-max-icon-size 16
+
 # Update package lists
 sudo apt-get update
 
