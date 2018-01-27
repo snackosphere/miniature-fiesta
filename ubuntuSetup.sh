@@ -11,3 +11,6 @@ sudo apt-get install vim git
 git config --global user.name "Taylor Chirillo"
 git config --global user.email taylor.chirillo@gmail.com
 
+# Display Git settings
+git config user.name
+git config user.email
